@@ -1,0 +1,2 @@
+# PMC-Paired-Multi-Contrast-MRI-Dataset-at-1.5T-and-3T-for-Supervised-Image2Image-Translation
+The PMC dataset is pre-processed and ready to use for supervised and semi-supervised learning methods in tasks, such as cross-modality, high-field MR image prediction, super-resolution, and multi-contrast MR image translation. It includes paired MR images in T1, T2, and PD contrasts at both 1.5T and 3T for the same pseudo-subjects.
