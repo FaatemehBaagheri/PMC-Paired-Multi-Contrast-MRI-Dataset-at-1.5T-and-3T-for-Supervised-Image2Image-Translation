@@ -6,7 +6,9 @@ If you use this dataset please cite the following:
 
 1- PMC: Paired Multi-Contrast MRI Dataset at 1.5T and 3T for Supervised
 Image2Image Translation
+
 2- [MR image prediction at high field strength from MR images taken at low field strength using multi-to-one translation](https://proceedings.cmbes.ca/index.php/proceedings/article/view/1034)
+
 3- [IXI dataset](https://brain-development.org/ixi-dataset/)
 
 ## License
