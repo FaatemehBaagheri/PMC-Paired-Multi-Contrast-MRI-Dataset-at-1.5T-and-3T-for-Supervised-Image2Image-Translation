@@ -6,8 +6,8 @@ To access the dataset please you may use the google drive link below:
 ## Cite
 If you use this dataset please cite the following:
 
-1- PMC: Paired Multi-Contrast MRI Dataset at 1.5T and 3T for Supervised
-Image2Image Translation
+1- [PMC: Paired Multi-Contrast MRI Dataset at 1.5T and 3T for Supervised
+Image2Image Translation](https://ceur-ws.org/Vol-3649/Paper21.pdf)
 
 2- [MR image prediction at high field strength from MR images taken at low field strength using multi-to-one translation](https://proceedings.cmbes.ca/index.php/proceedings/article/view/1034)
 
